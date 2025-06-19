@@ -1,0 +1,27 @@
+ 
+
+h1 {
+    color: rgb(91, 36, 220);
+     font-family: "Dancing Script", cursive;
+     font-size: 40px;
+}
+img {
+    width: 20vw;
+}
+
+img{
+    width: 320px;
+    padding:20px;
+    border:5px solid purple;
+   
+    margin:10px;
+}
+
+body{
+    background-color:pink;
+   
+    background-image: url(93jrjs2ikda.webp);
+    
+    background-size: 90%;
+    
+}
